@@ -1,2 +1,2 @@
 # harden-ubuntu
-CIS hardening for Ubuntu 20.04
+CIS hardening for Linux AMIs
